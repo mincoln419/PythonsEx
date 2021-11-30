@@ -1,0 +1,11 @@
+setup.py
+dss/__init__.py
+dss/data1.py
+dss/data2.py
+dss1.egg-info/PKG-INFO
+dss1.egg-info/SOURCES.txt
+dss1.egg-info/dependency_links.txt
+dss1.egg-info/not-zip-safe
+dss1.egg-info/top_level.txt
+web/__init__.py
+web/url.py
